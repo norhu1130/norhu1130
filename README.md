@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # norhu1130(Star)
-Hello, I'm Tim, and I am developer using Python,HTML,CSS,Node,C#,Lua
+Hello, I'm norhu, and I am developer using Python,HTML,CSS,Node,C#,Lua
 
 Discord : [Star#5788]
 Mail : [norhu1130@naver.com](mailto:norhu1130@naver.com)
