@@ -6,7 +6,7 @@ Hello, I'm norhu, and I am developer using Python,HTML,CSS,Node,C#,Lua
 Discord : [Star#5788]
 Mail : [norhu1130@naver.com](mailto:norhu1130@naver.com)
 
-![Tim232's github Status](https://github-readme-stats.vercel.app/api?username=norhu1130&show_icons=true&theme=tokyonight)
+![norhu1130's github Status](https://github-readme-stats.vercel.app/api?username=norhu1130&show_icons=true&theme=tokyonight)
 ### Top Language
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=norhu1130&theme=tokyonight)<br/>
 
