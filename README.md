@@ -3,7 +3,7 @@
 # norhu1130(Star)
 Hello, I'm norhu, and I am developer using Python,HTML,CSS,Node,C#,Lua
 
-Discord : [Star#5788]
+Discord : [norhu1130@naver.com]
 Mail : [norhu1130@naver.com](mailto:norhu1130@naver.com)
 
 ![norhu1130's github Status](https://github-readme-stats.vercel.app/api?username=norhu1130&show_icons=true&theme=tokyonight)
