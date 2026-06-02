@@ -6,7 +6,7 @@ Student developer. Building things that matter.
 
 ### About
 
-- ⚡ Founder & CEO of **Team Fortuna** — developer of **Jet Bot**
+- ⚡ Founder & CEO of **Team Fortuna** — developer of **JETTBOT**
 - 🎵 Member of **[Recodive(PreMID)](https://recodive.com)**
 - 📍 Based in Korea
 
